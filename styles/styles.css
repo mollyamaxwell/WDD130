@@ -3,21 +3,21 @@ nav {
 }
 
 nav a {
-    color: white;
+    color: rgb(221, 105, 105);
     display: block;
     padding: 20px;
 }
 
 h1 {
-    color: steelblue;
+    color: rgb(104, 164, 213);
 }
 
 img {
     width: 150px;
     height: auto;
-    border: 1px solid steelblue;
+    border: 1px solid rgb(118, 167, 207);
     padding: 2px;
-    box-shadow: 0 0 30px gray;
+    box-shadow: 0 0 30px rgb(232, 137, 137);
 }
 
 p {
@@ -30,9 +30,9 @@ main {
 
 aside {
     width: 20rem margin 1rem;
-    border: 1px solid rgba(0, 0, 0, 0.2);
+    border: 1px solid rgb(210, 102, 102);
     padding: 1rem;
-    background-color: #167;
+    background-color: rgb(69, 158, 175);
     text-align: center;
 }
 
@@ -52,6 +52,6 @@ p {
 
 footer {
     margin-top: 1em;
-    border-top: 1px solid #160;
+    border-top: 1px solid rgb(159, 197, 151);
     text-align: center;
 }

@@ -1,0 +1,16 @@
+@import url('https: //fonts.google.com/specimen/Playfair+Display')
+
+:root {
+    --primary-color: rgb(189, 176, 230);
+    --secondary-color: rgb(215, 107, 179);
+    --accent1-color: rgb(139, 185, 232);
+    --accent2-color: rgb(176, 194, 141);
+
+    --heading-font: XXX, serif;
+    --paragraph-font: XXX, serif;
+
+    --nav-background-color: rgb(232, 175, 119);
+    --nav-link-color: rgb(96, 157, 218);
+    --nav-hover-link-color: rgb(160, 192, 160);
+    --nav-hover-background-color: rgb(231, 164, 225);
+}
